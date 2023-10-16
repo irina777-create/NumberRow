@@ -15,6 +15,5 @@ const x=5;
 alert(x);
 const u=3;
 alert(u);
-alert("5 8 9 5 3 ");
 
 
